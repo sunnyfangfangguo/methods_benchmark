@@ -1,0 +1,11 @@
+﻿Metric,Param_X0,Param_Y0,Param_X1,Param_Y1
+Model,R mgcv GAM,R mgcv GAM,R mgcv GAM,R mgcv GAM
+Focal Parameter,X0,Y0,X1,Y1
+True Value,0.00,0.00,0.00,25.45
+N Observations,4 (of 4 total; 0 dropped for NaN CI),4 (of 4 total; 0 dropped for NaN CI),4 (of 4 total; 0 dropped for NaN CI),4 (of 4 total; 0 dropped for NaN CI)
+Mean Estimate,0.00 ± 0.00,0.00 ± 0.00,0.00 ± 0.00,25.45 ± 1.15
+Mean Bias,0.00 ± 0.00,0.00 ± 0.00,0.00 ± 0.00,0.00 ± 0.00
+RMSE,0.00,0.00,0.00,0.00
+Coverage Rate %,100.00%,100.00%,100.00%,100.00%
+Mean 95% CI,"[0.00, 0.00]","[0.00, 4.89]","[0.00, 0.00]","[21.55, 25.45]"
+Mean CI Width,0.00 ± 0.00,4.89 ± 5.61,0.00 ± 0.00,3.90 ± 4.93

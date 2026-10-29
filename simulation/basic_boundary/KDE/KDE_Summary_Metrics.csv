@@ -1,0 +1,11 @@
+﻿Metric,Param_X0,Param_Y0,Param_X1,Param_Y1
+Model,Weighted KDE,Weighted KDE,Weighted KDE,Weighted KDE
+Focal Parameter,X0,Y0,X1,Y1
+True Value,0.00,0.00,0.00,50.00
+N Observations,400 (of 400 total; 0 dropped for NaN CI),400 (of 400 total; 0 dropped for NaN CI),400 (of 400 total; 0 dropped for NaN CI),400 (of 400 total; 0 dropped for NaN CI)
+Mean Estimate,0.00 ± 0.00,5.28 ± 0.99,0.00 ± 0.00,44.72 ± 1.02
+Mean Bias,0.00 ± 0.00,5.28 ± 0.99,0.00 ± 0.00,-5.28 ± 1.02
+RMSE,0.00,5.37,0.00,5.38
+Coverage Rate %,100.00%,0.00%,100.00%,0.00%
+Mean 95% CI,"[0.00, 0.00]","[3.37, 9.45]","[0.00, 0.00]","[40.78, 46.65]"
+Mean CI Width,0.00 ± 0.00,6.08 ± 3.90,0.00 ± 0.00,5.87 ± 3.68
